@@ -3,7 +3,7 @@
     * {
         box-sizing: border-box;
         font-family: Quattrocento Sans;
-        color: #777;
+        color: white;
     }
     html, body{
         margin: 0;
@@ -23,6 +23,7 @@
         text-decoration: none;
     }
     .main-nav{
+        float: inline-end;
         text-align: center;
         font-size: 1.1em;
         font-weight: lighter;
