@@ -114,3 +114,71 @@ body {
 }
 */
 
+.events{
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.events-title{
+    text-align: center;
+    font-size: 2em;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.event-row{
+    display: inline-block;
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    margin-bottom: 3em;
+    
+}
+
+.event-item{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.event-date{
+    width: 19%;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    padding-left: 3.5em;
+}
+
+.event-place{
+    width: 48%;
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.event-btn{
+    width: 19%;
+    height: 3rem;
+    text-align: center;
+    font-size: 1.2rem;
+    color: white;
+    background-color: transparent;
+    border: 1px solid white;
+    font-weight: bolder;
+}
+
+.event-btn:hover{
+    width: 19%;
+    height: 3rem;
+    text-align: center;
+    font-size: 1.2rem;
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+    font-weight: bolder;
+}
+
+.btn{
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+}
